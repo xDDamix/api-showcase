@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tags_label">Tags:</string>
+    <string name="available_languages_label">Available languages:</string>
+    <string name="total_completed_label">Total completed</string>
+    <string name="total_stars_label">Total stars</string>
+    <string name="vote_score_label">Vote score</string>
+    <string name="something_went_wrong_label">Something went wrong, sorry!</string>
+    <string name="empty_response_received">No data available, sorry!!</string>
+    <string name="refresh_label">Refresh</string>
+</resources>
